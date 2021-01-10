@@ -1,6 +1,9 @@
-Project 1/30 from WesBos JavaScript30 challenge, consisting on building 30 things in 30 days with pure JavaScript.
+Todo list app made with Vanilla JavaScript. 
 
-1.  How to take advantage of JavaScript event keycode so that when someomes hits a key in their keyboard an audio element associated with that key will be played.
-2. Adding animations with transform and transition attributes.
-3. Understanding how to make up attributes with the data type attribute.
-4. After the tutorial, I decided to extend the JavaScript functionality with the click event so that when someones clicks on the corresponding element the program also works.
+In this simple app we are able to to add new tasks to be done, delete tasks, mark tasks as completed and filter tasks on basis of completed or incompleted tasks.
+
+Things I've learned while doing it:
+1. How to create/delete DOM elements dinamically with JavaScript.
+2. How to implement local storage and save tasks in our local storage.
+3. How to style DOM elements by adding/removing classes dinamically with JavaScript.
+
